@@ -1,0 +1,26 @@
+<annotation>
+	<folder>custom_datasets</folder>
+	<filename>다운로드 (1).jpg</filename>
+	<path>C:\Users\ashgh\OneDrive\문서\서울시x모두연\week2\custom_datasets\다운로드 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>479</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>118</ymin>
+			<xmax>433</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+</annotation>
