@@ -1,0 +1,38 @@
+<annotation>
+	<folder>day4</folder>
+	<filename>images (9).jpg</filename>
+	<path>C:\Users\ashgh\OneDrive\문서\서울시x모두연\week3\day4\images (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>280</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>barcelona</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>19</ymin>
+			<xmax>129</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>realmadrid</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>23</ymin>
+			<xmax>279</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>
